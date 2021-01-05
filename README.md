@@ -8,8 +8,8 @@ Proceedings of the Genetic and Evolutionary Computation Conference, July 2019, p
 ```
 This implementation was made for:
 ```
-Virgolin, Marco. "Simple Simultaneous Ensemble Learning in Genetic Programming." arXiv preprint arXiv:2009.06037 (2020).
-https://arxiv.org/abs/2009.06037
+Virgolin, Marco. "Genetic Programming is Naturally Suited to Evolve Bagging Ensembles." arXiv preprint arXiv:2009.06037v4 (2020).
+https://arxiv.org/abs/2009.06037v4
 ```
 If you make use of this code, please consider citing the works above.
 
