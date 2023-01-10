@@ -8,10 +8,20 @@ Proceedings of the Genetic and Evolutionary Computation Conference, July 2019, p
 ```
 This implementation was made for:
 ```
-Virgolin, Marco. "Genetic Programming is Naturally Suited to Evolve Bagging Ensembles." arXiv preprint arXiv:2009.06037v4 (2020).
-https://arxiv.org/abs/2009.06037v4
+@inproceedings{virgolin2021genetic,
+  author = {Virgolin, Marco},
+  title = {Genetic Programming is Naturally Suited to Evolve Bagging Ensembles},
+  year = {2021},
+  isbn = {9781450383509},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  doi = {10.1145/3449639.3459278},
+  booktitle = {Proceedings of the Genetic and Evolutionary Computation Conference},
+  pages = {830–839},
+  series = {GECCO '21}
+}
 ```
-If you make use of this code, please consider citing the works above.
+If you use this code, please cite the works above.
 
 
 ## Installation
